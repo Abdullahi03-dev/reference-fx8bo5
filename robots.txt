@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Abdullahi03-dev.github.io/reference-fx8bo5/sitemap.xml
